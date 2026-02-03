@@ -1,0 +1,6 @@
+Threat,Impact,Likelihood,Risk,Control
+Phishing,Credential Theft,Low,LOW,User Awareness Training, Email Filtering
+Phishing,Credential Theft,Medium,MEDIUM,User Awareness Training, Email Filtering
+Phishing,Credential Theft,High,HIGH,User Awareness Training, Email Filtering
+Phishing,Credential Theft,Medium,MEDIUM,User Awareness Training, Email Filtering
+Phishing,Credential Theft,High,HIGH,User Awareness Training, Email Filtering
